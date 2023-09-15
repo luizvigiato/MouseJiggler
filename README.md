@@ -17,3 +17,7 @@ rand() //inteiro que varia entre 0 a 255
 ```C
 intervaloSeg = 2; //a cada 2 segundos move o mouse
 ```
+
+----
+
+Adição de botão porta B3 para ativar e desativar mouse
