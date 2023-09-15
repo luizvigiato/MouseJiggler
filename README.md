@@ -15,5 +15,5 @@ rand() //inteiro que varia entre 0 a 255
 
 ### Contador de tempo do movimento
 ```C
-contador = 2; //a cada 2 segundos move o mouse
+intervaloSeg = 2; //a cada 2 segundos move o mouse
 ```
